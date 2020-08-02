@@ -73,7 +73,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-    background-image: url(../images/hero-bg.jpg);
+    background-image: url("../images/hero-bg.jpg");
     height: 750px;
     background-size: cover;
     background-position: center;
@@ -88,8 +88,7 @@ section {
     border: solid 3px #024e76;
     position: absolute;
     bottom: 120px;
-    right: 140px;
-    
+    right: 140px;   
 }
 
 .hero-form h3 {
